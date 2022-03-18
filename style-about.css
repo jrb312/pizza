@@ -1,0 +1,58 @@
+
+
+
+a:visited{
+    color: black;
+}
+
+div.a {
+    text-indent: 50px;  
+}
+
+h1 {
+    font-family: Futura,'Arial Bold', sans-serif;
+}
+
+h2 {
+    font-family: Futura,'Arial Bold', sans-serif;
+}
+
+h3 {
+    font-family: Futura,'Arial Bold', sans-serif;
+    font-style: italic;
+    color: #CE0F3D;
+    padding-left: 20px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: justify;
+    text-justify: inter-word;
+    background-color: #eeeeee;
+}
+
+h5 {
+    font-family: Georgia, Cochin, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: justify;
+    font-style: italic;
+    text-indent: 50px;
+    background-color: #eeeeee;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    /* text-justify: inter-word; */
+}
+
+img {
+    width: 31%;
+    
+}
+
+.tab { 
+    margin-left: 40px;
+    /* this user defined class is overriden by the h5 tag */    
+}
